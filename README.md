@@ -1,4 +1,4 @@
-# biblioteca
+# Biblioteca
 
 Este é um projeto simples de um sistema CRUD para uma biblioteca, implementado em Python com a biblioteca Tkinter para a interface gráfica.
 
