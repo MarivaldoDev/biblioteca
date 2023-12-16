@@ -15,14 +15,11 @@ O objetivo deste projeto é criar uma aplicação que permita a gestão básica 
 
 ## Requisitos
 
-Certifique-se de ter o Python instalado em seu sistema. O projeto utiliza a biblioteca Tkinter, que geralmente já está incluída na instalação padrão do Python.
+Certifique-se de ter o arquivo "livraria.db" e as pastas "icone" e "img" no mesmo local do código.
 
-## Instalação
+## Créditos
 
-Clone este repositório para sua máquina local:
+Este projeto foi inspirado por um desafio da comunidade Python Brasil. Agradecimentos a [Python_Brasil] pela ideia inicial.
 
-```bash
-git clone https://github.com/seu-usuario/biblioteca-tkinter-crud.git
-cd biblioteca-tkinter-crud
 
 ![Livraria ‐ Feito com o Clipchamp](https://github.com/MarivaldoDev/biblioteca/assets/126726979/25edd103-20f8-4a6f-a2dc-2b55c9dd726d)
