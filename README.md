@@ -15,7 +15,7 @@ O objetivo deste projeto é criar uma aplicação que permita a gestão básica 
 
 ## Requisitos
 
-Certifique-se de ter o arquivo "livraria.db" e as pastas "icone" e "img" no mesmo local do código.
+  Certifique-se de ter o arquivo "livraria.db" e as pastas "icone" e "img" no mesmo local do código.
 
 ## Créditos
 
